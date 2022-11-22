@@ -1,11 +1,16 @@
+# local package install
+-e .
+
+# third party packages
 dvc
 dvc[gdrive]
 sklearn
+scikit-learn
 pandas
-flake8
-tox
 pytest
-Flask
-joblib
+tox
+flake8
+flask
 gunicorn
 PyYAML
+joblib
