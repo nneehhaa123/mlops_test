@@ -5,6 +5,7 @@ dvc
 joblib
 dvc[gdrive]
 sklearn
+pyyaml
 scikit-learn
 pandas
 pytest
