@@ -1,8 +1,8 @@
 # local package install
 -e .
-
 # third party packages
 dvc
+joblib
 dvc[gdrive]
 sklearn
 scikit-learn
@@ -13,4 +13,3 @@ flake8
 flask
 gunicorn
 PyYAML
-joblib
