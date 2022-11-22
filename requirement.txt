@@ -2,3 +2,10 @@ dvc
 dvc[gdrive]
 sklearn
 pandas
+flake8
+tox
+pytest
+Flask
+joblib
+gunicorn
+PyYAML
